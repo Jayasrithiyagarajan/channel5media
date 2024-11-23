@@ -19,21 +19,21 @@ const getAllProjects = () => {
   const projects = [
     {
       id: 1,
-      title: "விஜய் பற்றி உளவுத்துறையின் ரிப்போர்ட்! ",
+      title: "Talk 2 Sridhar ",
       img: projectImage110,
       detailsImg: projectImage11,
       duration: "1500",
     },
     {
       id: 2,
-      title: "திருடர்களோடு கூட்டணி வைக்கும் காங்கிரஸ்...! | Rtd. ADSP Anusuya",
+      title: "Political Pulse | 2024 | Coimbatore",
       img: projectImage110,
       detailsImg: projectImage12,
       duration: "1800",
     },
     {
       id: 3,
-      title: "சூர்யா படத்தை கிண்டல் செய்த ராஜன் ! | K Rajan speech | Lara Movie Audio Launch",
+      title: "Talk Show | Political Pulse",
       img: projectImage110,
       detailsImg: projectImage13,
       duration: "2100",
