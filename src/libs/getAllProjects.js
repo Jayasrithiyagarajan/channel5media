@@ -23,6 +23,7 @@ const getAllProjects = () => {
       img: projectImage110,
       detailsImg: projectImage11,
       duration: "1500",
+      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this
     },
     {
       id: 2,
@@ -30,6 +31,7 @@ const getAllProjects = () => {
       img: projectImage110,
       detailsImg: projectImage12,
       duration: "1800",
+      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this
     },
     {
       id: 3,
@@ -37,6 +39,7 @@ const getAllProjects = () => {
       img: projectImage110,
       detailsImg: projectImage13,
       duration: "2100",
+      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this
     },
     {
       id: 4,
@@ -44,6 +47,7 @@ const getAllProjects = () => {
       img: projectImage110,
       detailsImg: projectImage14,
       duration: "2400",
+      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this
     },
     {
       id: 5,
@@ -51,6 +55,7 @@ const getAllProjects = () => {
       img: projectImage110,
       detailsImg: projectImage15,
       duration: "2600",
+      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this
     },
     {
       id: 6,
@@ -58,6 +63,7 @@ const getAllProjects = () => {
       img: projectImage110,
       detailsImg: projectImage13,
       duration: "2800",
+      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this
     },
 
     {
@@ -66,6 +72,7 @@ const getAllProjects = () => {
       img: projectImage4,
       detailsImg: projectImage12,
       duration: "2100",
+      youtubeLink: "https://www.youtube.com/watch?v=exampleID", // Add this
     },
     {
       id: 8,
@@ -73,6 +80,7 @@ const getAllProjects = () => {
       img: projectImage3,
       detailsImg: projectImage15,
       duration: "1800",
+      youtubeLink: "https://www.youtube.com/watch?v=exampleID", // Add this
     },
     {
       id: 9,
@@ -80,6 +88,7 @@ const getAllProjects = () => {
       img: projectImage2,
       detailsImg: projectImage12,
       duration: "1500",
+      youtubeLink: "https://www.youtube.com/watch?v=exampleID", // Add this
     },
     {
       id: 10,
@@ -87,6 +96,7 @@ const getAllProjects = () => {
       img: projectImage3,
       detailsImg: projectImage13,
       duration: "1800",
+      youtubeLink: "https://www.youtube.com/watch?v=exampleID", // Add this
     },
     {
       id: 11,
@@ -94,6 +104,7 @@ const getAllProjects = () => {
       img: projectImage4,
       detailsImg: projectImage15,
       duration: "2100",
+      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this
     },
     {
       id: 12,
@@ -101,6 +112,7 @@ const getAllProjects = () => {
       img: projectImage2,
       detailsImg: projectImage11,
       duration: "1500",
+      youtubeLink: "https://www.youtube.com/watch?v=exampleID", // Add this
     },
   ];
   return projects;

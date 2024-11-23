@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 
 const ProjectCard = ({ project, type }) => {
-  const { title, id, duration, img } = project;
+  const { title, id, duration, img, youtubeLink } = project;
   return (
     <div
       className="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12"
@@ -18,10 +18,17 @@ const ProjectCard = ({ project, type }) => {
     
     maxWidth: "80%", // Replace 300px with your desired max width
   }}>
-            <h3 >
-              <Link style={{
-    fontSize: "14px" // Replace 300px with your desired max width
-  }} href={`/`}>{title}</Link>
+            <h3>
+              <a
+                href={youtubeLink} // Use youtubeLink for redirection
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{
+                  fontSize: "14px", // Adjust font size if needed
+                }}
+              >
+                {title}
+              </a>
             </h3>
           </div>
           <div className="project__icon">
