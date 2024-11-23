@@ -21,7 +21,7 @@ const ProjectCard = ({ project, type }) => {
             <h3 >
               <Link style={{
     fontSize: "14px" // Replace 300px with your desired max width
-  }} href={`/projects/${id}`}>{title}</Link>
+  }} href={`/`}>{title}</Link>
             </h3>
           </div>
           <div className="project__icon">
