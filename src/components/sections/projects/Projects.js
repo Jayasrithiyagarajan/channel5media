@@ -21,7 +21,7 @@ const Projects = () => {
         <div className="container  sp_bottom_60 sp_top_70 ">
           <div className="row align-items-center sp_bottom_80">
             <div className="col-xl-6 col-lg-6 col-md-6 col-sm-8 col-12">
-              <div className="section__title section__title--2">
+              {/* <div className="section__title section__title--2">
                 <div className="section__title__heading">
                   <h3 className="mb-0">
                     
@@ -29,7 +29,7 @@ const Projects = () => {
                     
                   </h3>
                 </div>
-              </div>
+              </div> */}
             </div>
             {/* <div className="col-xl-6 col-lg-6 col-md-6 col-sm-4 col-12">
               <div className="project__section__img text__end">
