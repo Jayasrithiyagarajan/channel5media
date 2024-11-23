@@ -38,7 +38,7 @@ const getAllServices = () => {
       youtubeLinks: [
         { name: "Talk Show | Talk 2 Sridhar", url: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil" },
         { name: "Debate | Relax Bro", url: "https://www.youtube.com/watch?v=tUWA3I1qy_g&list=PLeDoNtYNWprPBRdmbskm3ZyaElWjQ6jdR&ab_channel=Channel5Tamil" },
-        { name: "Voices | Public Opinion, Press Meet", url: "hhttps://www.youtube.com/watch?v=Rh5TAeZX51Y&list=PLeDoNtYNWprMNQ6Nf2QeTS6FxuwAFFEhZ&ab_channel=Channel5Tamil" },
+        { name: "Voices | Public Opinion, Press Meet", url: "https://www.youtube.com/watch?v=Rh5TAeZX51Y&list=PLeDoNtYNWprMNQ6Nf2QeTS6FxuwAFFEhZ&ab_channel=Channel5Tamil" },
       ],
     },
     {

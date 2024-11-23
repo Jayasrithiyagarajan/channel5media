@@ -29,7 +29,8 @@ const ProjectCard = ({ project, type }) => {
               className={`direction__btn ${
                 type === 2 ? " direction__btn--2" : ""
               }`}
-              href={`/projects/${id}`}
+              // href={`/projects/${id}`}
+              href={`/`}
             >
               <svg
                 width="34"
