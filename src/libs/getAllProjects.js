@@ -48,14 +48,14 @@ const getAllProjects = () => {
     {
       id: 5,
       title: "Shekhar Iyer | Ratan Tata: A Legacy of Leadership and Philanthropy",
-      img: projectImage114,
+      img: projectImage110,
       detailsImg: projectImage15,
       duration: "2600",
     },
     {
       id: 6,
       title: "அண்ணாமலை தவிர யாரும் கேள்வி கேக்கமாட்டாங்க | Kumaraguru BJP",
-      img: projectImage115,
+      img: projectImage110,
       detailsImg: projectImage13,
       duration: "2800",
     },
