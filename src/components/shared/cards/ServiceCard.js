@@ -3,7 +3,7 @@ import serviceBgImage from "@/assets/img/service/service__1__img__bg.svg";
 import Link from "next/link";
 
 const ServiceCard = ({ service }) => {
-  const { id, title, desc, img, duration, youtubeLinks } = service;
+  const { id, title, desc, img, duration, youtubeLinks, youtubeLink } = service;
   return (
     <div
       className="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12"
@@ -19,7 +19,16 @@ const ServiceCard = ({ service }) => {
           <div className="service__content">
             <div className="service__heading">
               <h5>
-                <Link href={`/`}>{title}</Link>
+              <a
+                href={youtubeLink} // Use youtubeLink for redirection
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{
+                  fontSize: "14px", // Adjust font size if needed
+                }}
+              >
+                {title}
+              </a>
               </h5>
             </div>
             <div className="service__text">

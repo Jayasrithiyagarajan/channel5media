@@ -40,6 +40,7 @@ const getAllServices = () => {
         { name: "Debate | Relax Bro", url: "https://www.youtube.com/watch?v=tUWA3I1qy_g&list=PLeDoNtYNWprPBRdmbskm3ZyaElWjQ6jdR&ab_channel=Channel5Tamil" },
         { name: "Voices | Public Opinion, Press Meet", url: "https://www.youtube.com/watch?v=Rh5TAeZX51Y&list=PLeDoNtYNWprMNQ6Nf2QeTS6FxuwAFFEhZ&ab_channel=Channel5Tamil" },
       ],
+      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this
     },
     {
       id: 2,
@@ -53,6 +54,7 @@ const getAllServices = () => {
         { name: "Talk Show | చరిత తో కాసేపు", url: "https://www.youtube.com/watch?v=Adp8iI_6pc0&list=PLxsRr24gRm49VBDPwZu8l3cPsikS949jL&ab_channel=Channel5Telugu" },
         
       ],
+      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this
     },
     {
       id: 3,
@@ -68,6 +70,7 @@ const getAllServices = () => {
         { name: "Guest Corner | Shekhar Iyer", url: "https://www.youtube.com/watch?v=PcjIcP94bgw&list=PLi8J_PeF57l20LwI7scyMFkryaD3DdRaz&ab_channel=Channel5India" },
         
       ],
+      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this      
     },
     {
       id: 4,
@@ -82,6 +85,7 @@ const getAllServices = () => {
         { name: "Temples | Online Pilgrimage", url: "https://www.youtube.com/watch?v=qBV0iS719lA&list=PLVBqaXJqpiujEKIe5iEyuhZpgG4yYGZ9V&ab_channel=Channel5Bhakti" },
         { name: "Temples | Spiritual Journey", url: "https://www.youtube.com/watch?v=i4XEkvvGiZM&list=PLVBqaXJqpiuggDRv7RTPCKAPdt8tf3ntV&ab_channel=Channel5Bhakti" },
       ],
+      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this
     },
     {
       id: 5,
@@ -96,6 +100,7 @@ const getAllServices = () => {
         { name: "Latest Tamil Entertainment News", url: "https://www.youtube.com/watch?v=example2" },
         { name: "Tamil Heritage Explained", url: "https://www.youtube.com/watch?v=example3" },
       ],
+      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this
     },
 
     {
@@ -111,6 +116,7 @@ const getAllServices = () => {
         { name: "Latest Tamil Entertainment News", url: "https://www.youtube.com/watch?v=example2" },
         { name: "Tamil Heritage Explained", url: "https://www.youtube.com/watch?v=example3" },
       ],
+      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this
     },
 
     {
@@ -126,6 +132,7 @@ const getAllServices = () => {
         { name: "Latest Tamil Entertainment News", url: "https://www.youtube.com/watch?v=example2" },
         { name: "Tamil Heritage Explained", url: "https://www.youtube.com/watch?v=example3" },
       ],
+      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this
     },
     {
       id: 8,
@@ -140,6 +147,7 @@ const getAllServices = () => {
         { name: "Latest Tamil Entertainment News", url: "https://www.youtube.com/watch?v=example2" },
         { name: "Tamil Heritage Explained", url: "https://www.youtube.com/watch?v=example3" },
       ],
+      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this
     },
     {
       id: 9,
@@ -154,6 +162,7 @@ const getAllServices = () => {
         { name: "Latest Tamil Entertainment News", url: "https://www.youtube.com/watch?v=example2" },
         { name: "Tamil Heritage Explained", url: "https://www.youtube.com/watch?v=example3" },
       ],
+      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this
     },
     {
       id: 10,
@@ -168,6 +177,7 @@ const getAllServices = () => {
         { name: "Latest Tamil Entertainment News", url: "https://www.youtube.com/watch?v=example2" },
         { name: "Tamil Heritage Explained", url: "https://www.youtube.com/watch?v=example3" },
       ],
+      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this
     },
     {
       id: 11,
@@ -182,6 +192,7 @@ const getAllServices = () => {
         { name: "Latest Tamil Entertainment News", url: "https://www.youtube.com/watch?v=example2" },
         { name: "Tamil Heritage Explained", url: "https://www.youtube.com/watch?v=example3" },
       ],
+      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this
     },
     {
       id: 12,
@@ -196,6 +207,7 @@ const getAllServices = () => {
         { name: "Latest Tamil Entertainment News", url: "https://www.youtube.com/watch?v=example2" },
         { name: "Tamil Heritage Explained", url: "https://www.youtube.com/watch?v=example3" },
       ],
+      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this
     },
     {
       id: 13,
@@ -210,6 +222,7 @@ const getAllServices = () => {
         { name: "Latest Tamil Entertainment News", url: "https://www.youtube.com/watch?v=example2" },
         { name: "Tamil Heritage Explained", url: "https://www.youtube.com/watch?v=example3" },
       ],
+      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this
     },
 
     {
@@ -225,6 +238,7 @@ const getAllServices = () => {
         { name: "Latest Tamil Entertainment News", url: "https://www.youtube.com/watch?v=example2" },
         { name: "Tamil Heritage Explained", url: "https://www.youtube.com/watch?v=example3" },
       ],
+      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this
     },
     {
       id: 15,
@@ -239,6 +253,7 @@ const getAllServices = () => {
         { name: "Latest Tamil Entertainment News", url: "https://www.youtube.com/watch?v=example2" },
         { name: "Tamil Heritage Explained", url: "https://www.youtube.com/watch?v=example3" },
       ],
+      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this
     },
     {
       id: 16,
@@ -253,6 +268,7 @@ const getAllServices = () => {
         { name: "Latest Tamil Entertainment News", url: "https://www.youtube.com/watch?v=example2" },
         { name: "Tamil Heritage Explained", url: "https://www.youtube.com/watch?v=example3" },
       ],
+      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this
     },
     {
       id: 17,
@@ -267,6 +283,7 @@ const getAllServices = () => {
         { name: "Latest Tamil Entertainment News", url: "https://www.youtube.com/watch?v=example2" },
         { name: "Tamil Heritage Explained", url: "https://www.youtube.com/watch?v=example3" },
       ],
+      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this
     },
     {
       id: 18,
@@ -281,6 +298,7 @@ const getAllServices = () => {
         { name: "Latest Tamil Entertainment News", url: "https://www.youtube.com/watch?v=example2" },
         { name: "Tamil Heritage Explained", url: "https://www.youtube.com/watch?v=example3" },
       ],
+      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this
     },
     {
       id: 19,
@@ -295,6 +313,7 @@ const getAllServices = () => {
         { name: "Latest Tamil Entertainment News", url: "https://www.youtube.com/watch?v=example2" },
         { name: "Tamil Heritage Explained", url: "https://www.youtube.com/watch?v=example3" },
       ],
+      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this
     },
     {
       id: 20,
@@ -309,6 +328,7 @@ const getAllServices = () => {
         { name: "Latest Tamil Entertainment News", url: "https://www.youtube.com/watch?v=example2" },
         { name: "Tamil Heritage Explained", url: "https://www.youtube.com/watch?v=example3" },
       ],
+      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this
     },
     {
       id: 21,
@@ -323,6 +343,7 @@ const getAllServices = () => {
         { name: "Latest Tamil Entertainment News", url: "https://www.youtube.com/watch?v=example2" },
         { name: "Tamil Heritage Explained", url: "https://www.youtube.com/watch?v=example3" },
       ],
+      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this
     },
   ];
   return services;
