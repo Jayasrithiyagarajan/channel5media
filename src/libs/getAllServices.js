@@ -54,7 +54,7 @@ const getAllServices = () => {
         { name: "Talk Show | చరిత తో కాసేపు", url: "https://www.youtube.com/watch?v=Adp8iI_6pc0&list=PLxsRr24gRm49VBDPwZu8l3cPsikS949jL&ab_channel=Channel5Telugu" },
         
       ],
-      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this
+      youtubeLink: "https://www.youtube.com/@channel5telugu", // Add this
     },
     {
       id: 3,
@@ -70,7 +70,7 @@ const getAllServices = () => {
         { name: "Guest Corner | Shekhar Iyer", url: "https://www.youtube.com/watch?v=PcjIcP94bgw&list=PLi8J_PeF57l20LwI7scyMFkryaD3DdRaz&ab_channel=Channel5India" },
         
       ],
-      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this      
+      youtubeLink: "https://www.youtube.com/@channel5india", // Add this      
     },
     {
       id: 4,
@@ -85,7 +85,7 @@ const getAllServices = () => {
         { name: "Temples | Online Pilgrimage", url: "https://www.youtube.com/watch?v=qBV0iS719lA&list=PLVBqaXJqpiujEKIe5iEyuhZpgG4yYGZ9V&ab_channel=Channel5Bhakti" },
         { name: "Temples | Spiritual Journey", url: "https://www.youtube.com/watch?v=i4XEkvvGiZM&list=PLVBqaXJqpiuggDRv7RTPCKAPdt8tf3ntV&ab_channel=Channel5Bhakti" },
       ],
-      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this
+      youtubeLink: "https://www.youtube.com/@Channel5Bhakti", // Add this
     },
     {
       id: 5,
@@ -100,7 +100,7 @@ const getAllServices = () => {
         { name: "Latest Tamil Entertainment News", url: "https://www.youtube.com/watch?v=example2" },
         { name: "Tamil Heritage Explained", url: "https://www.youtube.com/watch?v=example3" },
       ],
-      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this
+      youtubeLink: "https://www.youtube.com/@Channel5Cinema", // Add this
     },
 
     {
@@ -116,7 +116,7 @@ const getAllServices = () => {
         { name: "Latest Tamil Entertainment News", url: "https://www.youtube.com/watch?v=example2" },
         { name: "Tamil Heritage Explained", url: "https://www.youtube.com/watch?v=example3" },
       ],
-      youtubeLink: "https://www.youtube.com/watch?v=dHlHBWCyl24&list=PLeDoNtYNWprO5Qbf3TC2NgJJhkTyjSqnk&ab_channel=Channel5Tamil", // Add this
+      youtubeLink: "https://www.youtube.com/@Channel5NewsTamil", // Add this
     },
 
     {
