@@ -11,7 +11,7 @@ const OfferedServices = ({ service, pb }) => {
       className={`service sp_top_140 special__spacing ${
         pb ? pb : "sp_bottom_140"
       }`}
-      id="service__area"
+      id="channels__area"
       style={{ background: `var(--pinkcolor) url('${serviceBgImage.src}')` }}
       data-aos="fade-up"
     >

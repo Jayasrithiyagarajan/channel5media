@@ -114,7 +114,7 @@ const Navbar = () => {
   const navItems = [
     { name: "About Us", path: "#about__mission__area" },
     { name: "Channels", path: "#channels__area" },
-    { name: "Featured Content", path: "#featured__content__area" },
+    { name: "Featured Content", path: "#project__area" },
     { name: "Contact", path: "#tb__contact" },
   ];
 
