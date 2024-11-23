@@ -10,7 +10,7 @@ const ServiceCard = ({ service }) => {
       data-aos="fade-up"
       data-aos-duration={duration}
     >
-      <div className="service__single__wraper common__gradient__bg single__transform" style={{ height: "680px" }} >
+      <div className="service__single__wraper common__gradient__bg single__transform" style={{ height: "450px" }} >
         <div className="service__single__inner">
           <div className="service__img">
             <Image src={img} alt="" width={135} height={100} />
@@ -19,7 +19,7 @@ const ServiceCard = ({ service }) => {
           <div className="service__content">
             <div className="service__heading">
               <h5>
-                <Link href={`/services/${id}`}>{title}</Link>
+                <Link href={`/`}>{title}</Link>
               </h5>
             </div>
             <div className="service__text">
@@ -28,7 +28,7 @@ const ServiceCard = ({ service }) => {
 
 
             {/* YouTube Links Section */}
-            <div className="service__youtube">
+            {/* <div className="service__youtube">
               <h6>OUR PLAYLISTS:</h6>
               <ul>
   {youtubeLinks.map((link, index) => (
@@ -40,8 +40,8 @@ const ServiceCard = ({ service }) => {
   ))}
 </ul>
 
-            </div>
-            <div className="service__icon sp_top_30">
+            </div> */}
+            <div className="service__icon sp_top_30" style={{marginBottom: "30px"}}>
               {/* <Link href={`/services/${id}`}> */}
               <Link href={`/`}>
                 <svg
