@@ -9,7 +9,7 @@ const OfferedServices = ({ service, pb }) => {
   return (
     <div
       className={`service sp_top_140 special__spacing ${
-        pb ? pb : "sp_bottom_330"
+        pb ? pb : "sp_bottom_140"
       }`}
       id="service__area"
       style={{ background: `var(--pinkcolor) url('${serviceBgImage.src}')` }}
