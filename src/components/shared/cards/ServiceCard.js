@@ -18,7 +18,7 @@ const ServiceCard = ({ service }) => {
 
           <div className="service__content">
             <div className="service__heading">
-              <h5>
+              <h3>
               <a
                 href={youtubeLink} // Use youtubeLink for redirection
                 target="_blank"
@@ -29,7 +29,7 @@ const ServiceCard = ({ service }) => {
               >
                 {title}
               </a>
-              </h5>
+              </h3>
             </div>
             <div className="service__text">
             <p style={{ fontSize: "14px"}}>{desc}</p>
