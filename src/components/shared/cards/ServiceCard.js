@@ -18,18 +18,16 @@ const ServiceCard = ({ service }) => {
 
           <div className="service__content">
             <div className="service__heading">
-              <h3>
+              <h5>
               <a
                 href={youtubeLink} // Use youtubeLink for redirection
                 target="_blank"
                 rel="noopener noreferrer"
-                style={{
-                  fontSize: "14px", // Adjust font size if needed
-                }}
+                
               >
                 {title}
               </a>
-              </h3>
+              </h5>
             </div>
             <div className="service__text">
             <p style={{ fontSize: "14px"}}>{desc}</p>
